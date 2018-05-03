@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Beatles Anthology Vol. 1</string>
+    <string name="article_subtitle">Behind That Locked Door: Beatles Rarities!</string>
+    <string name="article_text">Article text\n
+        In the previous task you created the Scrolling Text app with TextViews for an article title,\n
+        subtitle, and lengthy article text.\n
+        You also included a web link, but the link is not yet active.\n
+        You will add the code to make it active.\n
+        Also, the TextView by itself can\'t enable users to scroll the article text to see all of it.\n
+        You will add a new view group called ScrollView to the XML layout that will make the TextView scrollable.\n
+        Choose Code > Reformat Code to reformat the XML code so that the article TextView now appears indented inside the code.
+            Run the app.\n
+        \n
+            Swipe up and down to scroll the article. The scroll bar appears in the right margin as you scroll.\n
+            Tap the web link to go to the web page.\n
+        \n
+        The android:autoLink attribute turns any recognizable URL in the TextView (such as www.rockument.com) into a web link.\n
+Rotate your device or emulator while running the app. \n
+        \n
+        Notice how the scrolling view widens to use the full display and still scrolls properly.\n
+Run the app on a tablet or tablet emulator.\n
+        \n
+        Notice how the scrolling view widens to use the full display and still scrolls properly.</string>
+</resources>
