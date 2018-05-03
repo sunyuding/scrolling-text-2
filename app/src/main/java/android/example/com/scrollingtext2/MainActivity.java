@@ -1,4 +1,4 @@
-package android.example.com.scrollingtext;
+package android.example.com.scrollingtext2;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

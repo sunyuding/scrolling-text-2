@@ -1,4 +1,4 @@
-package android.example.com.scrollingtext;
+package android.example.com.scrollingtext2;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("android.example.com.scrollingtext", appContext.getPackageName());
+        assertEquals("android.example.com.scrollingtext2", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package android.example.com.scrollingtext;
+package android.example.com.scrollingtext2;
 
 import org.junit.Test;
 
